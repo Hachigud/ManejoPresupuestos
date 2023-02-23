@@ -1,0 +1,26 @@
+﻿#reonderable tr{
+    cursor: move;
+}
+
+
+.contenedor-totales{
+    display: flex;
+    justify-content: space-around;
+    font-size: 26px;
+    text-align: center;
+}
+
+
+.activos{
+   color: blue;
+}
+
+.pasivos{
+    color: red;
+}
+
+
+
+#bodilo {
+    background-image: linear-gradient(to left,pink,orange);
+}
